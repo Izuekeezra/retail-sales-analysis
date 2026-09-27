@@ -10,5 +10,5 @@ order_id,order_date,customer_id,region,product_category,product,quantity,unit_pr
 1009,2025-01-29,C009,Glasgow,Heating,Heater,2,115.00,0.00,Cash,3,Yes
 1010,2025-01-30,C010,Aberdeen,Stationary,Ruler,1,5.00,0.00,Card,2,No
 1011,2025-01-31,C011,Ghana,Utensils,Pot,3,10.00,0.08,Transfer,3,yes
-1012,2025-01-32,C012,Spain,Bottle,Cup,5,15.00.0.06,Cash,4,No
+1012,2025-01-32,C012,Spain,Bottle,Cup,5,15.00,0.06,Cash,4,No
 1013,2025-01-32,CO12,Russia,Drink,milk,4,30.00,0.04,transfer,3,yes
